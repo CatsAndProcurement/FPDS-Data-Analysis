@@ -12,7 +12,7 @@ and aggregate and display the data using Pandas.
 FPDS is a publicly accessible US government data system 
 for prime contract award information.
 Sample FPDS web API call:
-https://www.fpds.gov/ezsearch/fpdsportal?s=FPDS&indexName=awardfull&templateName=CSV&q=++CONTRACT_FISCAL_YEAR%3A%222019%22+DEPARTMENT_ID%3A%226900%22+PRODUCT_OR_SERVICE_CODE%3A%22D3*%22
+https://www.fpds.gov/ezsearch/fpdsportal?s=FPDS&indexName=awardfull&templateName=CSV&q=++CONTRACT_FISCAL_YEAR%3A%222019%22+DEPARTMENT_ID%3A%224700%22+PRODUCT_OR_SERVICE_CODE%3A%22D3*%22
 
 """
 
