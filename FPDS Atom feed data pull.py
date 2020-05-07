@@ -65,7 +65,7 @@ dfFPDS["Code and Description"] = (dfFPDS["PSC"].apply(str)+" ("+dfFPDS["PSC Desc
 # The following deletes hyphens and capitalizes the phrases 'IT' & 'R&D' if needed:
 dfFPDS["Code and Description"] = dfFPDS["Code and Description"].str.replace("- "," ")
 dfFPDS["Code and Description"] = dfFPDS["Code and Description"].str.replace("it ","IT ")
-dfFPDS["Code and Description"] = dfFPDS["Code and Description"].str.replace("r&d","R&D")
+dfFPDS["Code and Description"] = dfFPDS["Code and Description"].str.replace("r&d ","R&D ")
 
 # The following uses Pandas to create a pivot table and add up the obligations
 # based on our new 'Code and Description' variable:
