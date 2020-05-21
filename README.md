@@ -17,4 +17,4 @@ https://www.fpds.gov/ezsearch/fpdsportal?s=FPDS
 
 The above sample call pulls data for Contract Fiscal Year 2019, Department ID #6900 (the Department of Transportation), and Product Service Code (PSC) D3 (IT services). These parameter values can be edited (and other parameters added) as needed by data analysts to meet customized needs.
 
-Nothing in this script is endorsed by GSA, the reporting agencies, or the U.S. government. None of the data that the script might extract is verified by the author; neither raw data nor conclusions drawn from the data should be interpreted as authoritative.
+Nothing in this script is reviewed or endorsed by GSA, the reporting agencies, or the U.S. government. None of the data that the script might extract is verified by the author; neither raw data nor conclusions drawn from the data should be interpreted as authoritative.
